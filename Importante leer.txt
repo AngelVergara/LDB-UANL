@@ -1,2 +1,11 @@
 La base de datos usada para las practicas es DB_5,6,7,8
 Es necesaria para poder corre el script
+Las Practicas a tomar en cuenta son:
+Practica1_1887839.sql
+Practica2_1887839.sql
+Practica3_1887839.sql
+Practica4_1887839.sql
+Practica5_1887839.sql
+Practica6_1887839.sql
+Practica7_1887839.sql
+Practica8_1887839.sql
